@@ -2,8 +2,6 @@
 
 ![alt text](https://github.com/cluhring/my_first_d3_map/blob/master/d3_uk_map.png)
 
-Created by following the Mike Bostock "Lets Make a Map Tutorial"
-
-[Published on December 30, 2012](http://bost.ocks.org/mike/map/)
+Created by following the Mike Bostock ["Lets Make a Map Tutorial"](http://bost.ocks.org/mike/map/)
 
 start http-server by running "http-server -p 8008 &"
