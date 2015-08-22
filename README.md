@@ -5,3 +5,5 @@
 Created by following the Mike Bostock ["Lets Make a Map Tutorial"](http://bost.ocks.org/mike/map/)
 
 start http-server by running "http-server -p 8008 &"
+stop http-server by finding the Server PID# "lsof -i tcp:8008"
+then "kill -9 INSERTPID#HERE"
